@@ -1,0 +1,1 @@
+RN pratice with expo ts
